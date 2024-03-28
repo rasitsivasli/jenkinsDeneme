@@ -11,6 +11,7 @@ public class jenkinsTest extends TestBase {
         System.out.println("Test2 ");
         System.out.println("Test2 ");
         System.out.println("Test5 ");
+        System.out.println("Test6 ");
         driver.get("https://www.google.de/");
 
     }
