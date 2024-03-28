@@ -8,6 +8,7 @@ public class jenkinsTest extends TestBase {
     public void test(){
         System.out.println("Test calisiyor");
         System.out.println("Test ");
+        System.out.println("Test2 ");
         driver.get("https://www.google.de/");
 
     }
