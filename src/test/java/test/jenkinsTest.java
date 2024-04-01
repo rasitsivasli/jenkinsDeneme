@@ -6,13 +6,6 @@ import utilities.TestBase;
 public class jenkinsTest extends TestBase {
     @Test
     public void test(){
-        System.out.println("Test calisiyor");
-        System.out.println("Test ");
-        System.out.println("Test2 ");
-        System.out.println("Test2 ");
-        System.out.println("Test5 ");
-        System.out.println("Test6 ");
-        driver.get("https://www.google.de/");
-
+        System.out.println("Kendi Projen basariyla calsitir . Afferin");
     }
 }
